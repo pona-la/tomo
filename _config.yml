@@ -1,0 +1,12 @@
+title: lipu sin
+description: >- # this means to ignore newlines until "url:"
+  Write an awesome description for your new site here.
+url: "https://pona.la/" # the base hostname & protocol for your site, adjust it to what it actuslly is
+
+# This is the list of links that show up at the top of the page using `lipu` template, adjust it with whatever (or none) links you would like
+lawa:
+- nimi: about # This is the text that will show up as the link at the top
+  linluwi: /about # This can be an absolute link like right here, a relative link without the / at the begining, or an external link if it starts with a protocol like https://
+
+# Build settings
+remote_theme: pona-la/kule-lipu
