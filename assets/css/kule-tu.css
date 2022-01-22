@@ -1,0 +1,28 @@
+.grid {
+  display: grid;
+  grid-row-gap: 2.5rem;
+  grid-template-columns: auto auto;
+}
+
+.grid * {
+  display: flex;
+  margin:auto
+}
+
+@media (max-width: 576px) {
+  .grid {
+    grid-template-columns: auto;
+  }
+}
+
+.screenreader {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
