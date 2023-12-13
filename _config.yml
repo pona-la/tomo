@@ -8,6 +8,8 @@ lawa:
   linluwi: https://github.com/pona-la
 - nimi: o pali e lipu sina
   linluwi: /request
+- nimi: lipu ale
+  linluwi: /full
 
 # Build settings
 remote_theme: pona-la/kule-lipu
