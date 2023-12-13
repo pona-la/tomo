@@ -30,6 +30,6 @@ layout: lipu
 
 ### Defunct subdomains
 
-* kulupu.pona.la - forum by nano. Closed due to hosting costs, [archived](https://archive.org/details/kulupu.pona.la).
+* kulupu.pona.la - forum by soweli Masi. Closed [due to moderation concerns](https://web.archive.org/web/20231114030939/https://kulupu.pona.la/d/155-notice-of-the-shutdown-of-kulupu-lipu-pona-until-further-notice), but [is available as an archive](https://archive.org/details/kulupu.pona.la).
 
 * linku.pona.la - use [linku.la](https://linku.la) instead
