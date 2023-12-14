@@ -14,9 +14,13 @@ layout: lipu
 
 * [ma Seka](https://seka.pona.la) - PeerTube instance by jan Kita
 
+* [mu tenpo](https://mutenpo.pona.la) - silly clock by suno Ala
+
 * [sike pona pi toki pona](https://sike.pona.la) - webring
 
 * [sona pona](https://sona.pona.la) - a wiki about Toki Pona
+
+* [lipu sona suli](https://sona-suli.pona.la) - a wiki by jan Tepo, currently empty
 
 * [suno pi toki pona](https://suno.pona.la) - yearly community event
 
