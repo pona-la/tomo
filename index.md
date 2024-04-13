@@ -13,4 +13,5 @@ Click here to see a [full list of subdomains](/full).
 <a href="https://suno.pona.la"><span class="screenreader">suno pi toki pona</span>{% include suno.svg %}</a>
 <a href="https://ma.pona.la"><span class="screenreader">ma pona pi toki pona</span>{% include ma.svg %}</a>
 <a href="https://seka.pona.la"><span class="screenreader">ma Seka</span>{% include seka.svg %}</a>
+<a href="https://sitelen.pona.la"><span class="screenreader">tomo sitelen</span>{% include tomo-sitelen.svg %}</a>
 </div>
