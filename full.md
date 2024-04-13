@@ -12,6 +12,8 @@ layout: lipu
 
 * [nimi pona](https://nimi.pona.la) - a dictionary tool by ilo Sasi
 
+* [tomo sitelen](https://sitelen.pona.la) - fonts and information about sitelen pona on computers
+
 * [ma Seka](https://seka.pona.la) - PeerTube instance by jan Kita
 
 * [mu tenpo](https://mutenpo.pona.la) - silly clock by suno Ala
