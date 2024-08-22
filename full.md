@@ -8,7 +8,7 @@ layout: lipu
 
 * [ma pona](https://ma.pona.la) - Discord community
 
-* [lipu Nasi](https://nasi.pona.la) - ARG for sptp2022 by jan Kepe
+* [lipu Nasi](https://nasi.pona.la) - ARG for sptp2023 by jan Kepe
 
 * [nimi pona](https://nimi.pona.la) - a dictionary tool by ilo Sasi
 
@@ -32,6 +32,8 @@ layout: lipu
 
 * [kule epiku Atawan](https://lipu-pi-ijo-pi-toki.pona.la)
 
+* [jan Janpa](https://janpa.li.pona.la)
+
 ### Defunct subdomains
 
 * kulupu.pona.la - forum by soweli Masi. Closed [due to moderation concerns](https://web.archive.org/web/20231114030939/https://kulupu.pona.la/d/155-notice-of-the-shutdown-of-kulupu-lipu-pona-until-further-notice), but [is available as an archive](https://archive.org/details/kulupu.pona.la).
@@ -39,3 +41,7 @@ layout: lipu
 * linku.pona.la - use [linku.la](https://linku.la) instead
 
 * lipu.pona.la - Writefreely instance by jan Kita. Closed due to spam abuse.
+
+* toki.pona.la - see kulupu.pona.la (previously used subdomain before choosing kulupu.pona.la)
+
+* toktok.pona.la - unclear
